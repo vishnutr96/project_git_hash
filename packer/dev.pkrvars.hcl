@@ -1,0 +1,5 @@
+project_name="Hash_app"
+project_env="dev"
+instance_type="t2.micro"
+region="ap-south-1"
+instance_ami="ami-0a0f1259dd1c90938"
